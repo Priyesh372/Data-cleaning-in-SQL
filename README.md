@@ -1,1 +1,1 @@
-# Data-cleaning-in-SQL
+SQL sever used to perform Data cleaning and Data exploration
